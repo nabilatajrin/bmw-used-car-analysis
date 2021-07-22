@@ -1,6 +1,6 @@
 # Ford used car analysis
-Submitted by:
-Nabila Tajrin Bristy
+Submitted by:<br>
+Nabila Tajrin Bristy<br>
 Dhaka, Bangladesh
 
 ## Objective
