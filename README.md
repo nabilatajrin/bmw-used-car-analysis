@@ -3,7 +3,7 @@
 Nabila Tajrin Bristy<br>
 Dhaka, Bangladesh
 
-#### Objective
+### Objective
 This project visualizes the data and analyzes the relationship between variables of used Ford cars.
 
 ### Variables
