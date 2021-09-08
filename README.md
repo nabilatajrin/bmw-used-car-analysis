@@ -1,5 +1,5 @@
 # Ford used car analysis
-#### Submitted by:<br>
+##### Submitted by:<br>
 Nabila Tajrin Bristy<br>
 Dhaka, Bangladesh
 
@@ -18,5 +18,5 @@ Make sure you have a proper title, xlabel, ylabel, xticks, yticks, and figure si
 Use the Markdown cell for proper commenting and make sure the code easily understandable. Use the .head() or .tail() method when necessary rather than displaying all the rows in the dataframe.
 Make sure your code is reusable and reproducible.
 
-#### References
+##### References
 Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
