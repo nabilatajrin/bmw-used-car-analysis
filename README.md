@@ -1,6 +1,7 @@
 # Ford used car analysis
 #### Submitted by:<br>
 Nabila Tajrin Bristy<br>
+IIT, University of Dhaka<br>
 Dhaka, Bangladesh
 
 ### Objective
