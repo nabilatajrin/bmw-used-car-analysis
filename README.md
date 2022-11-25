@@ -21,9 +21,9 @@ Use the Markdown cell for proper commenting and make sure the code easily unders
 Make sure your code is reusable and reproducible.
 
 ##### Part 02
-A. What are the top 5 selling car models/transmission/fuelType in the dataset?<br>
-B. What's the average selling price of the top 5 selling car models/transmission/fuelType?<br>
-C. What's the total sale of the top 5 selling car models/transmission/fuelType?
+A. What are the top 5 selling car models/ transmission/ fuelType in the dataset?<br>
+B. What's the average selling price of the top 5 selling car models/ transmission/ fuelType?<br>
+C. What's the total sale of the top 5 selling car models/ transmission/ fuelType?
 
 #### References
 Dataset source: https://www.kaggle.com/aishwaryamuthukumar/cars-dataset-audi-bmw-ford-hyundai-skoda-vw
