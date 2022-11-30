@@ -14,13 +14,13 @@ Model, year, price, transmission, mileage, fuelType, mpg, and engineSize.
 Barplot, histogram, ECDF etc.
 
 ### Tasks
-##### Part 01
+#### Part 01
 Create a figure of barplot that will contain multiple subplots. Each subplot will represent a column.
 Make sure you have a proper title, xlabel, ylabel, xticks, yticks, and figure size which will represent an example of good data visualization.
 Use the Markdown cell for proper commenting and make sure the code easily understandable. Use the .head() or .tail() method when necessary rather than displaying all the rows in the dataframe.
 Make sure your code is reusable and reproducible.
 
-##### Part 02
+#### Part 02
 A. What are the top 5 selling car models/ transmission/ fuelType in the dataset?<br>
 B. What's the average selling price of the top 5 selling car models/ transmission/ fuelType?<br>
 C. What's the total sale of the top 5 selling car models/ transmission/ fuelType?
